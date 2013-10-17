@@ -1,25 +1,41 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Meðlimir hóps:
++ Árni Árnason
++ Valgeir Már Sturluson
 
 ## 1. Linux uppsetning
-
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
-
+Okkur gekk ágætlega að setja inn Ubuntu.  Við náum í Virtualbox og settum það
+upp. það gekk auðveldlega og svo náðum við í Ubuntu13.04 og settum upp.
+Það gekk ekki vel í byrjun, vildi ekki keyra eðlilega fyrst en svo duttum við inn á það ráð að breyta stillingum, og þá gekk keyrði forritið.  Nauðsynlegt var að afhaka við "usb" eins og margir lentu í.  En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu til þess að Ubuntu keyrði upp. En það dugði.
 ## 2. Uppsetning á vim && git
-
-Lýsið hvernig gekk að setja upp þessi tól.
+Uppsetning á Vim og Git gekk eins og í sögu. Við notuðum gefnar command línur til þess arna og það gekk vel.
 
 ## 3. Unnið með Git (1. hluti)
+Það gekk áfallalaust að stofna account á github og þar fundum við INTOPrufa verkefnið fljótt og smelltum á "fork".  
+Svo var auðvelt að clóna forkuðu útgáfuna á okkar tölvu með skipuninni: "git clone https://github.com/Valli78/INTOPrufa.
+Svo eftir ítarlegt "crashcourse" í vim þá gekk vel að gera breytingu á cóðanum í skalinu svo og einnig að búa til commit með okkar lýsingu á hvað við gerðum.  
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+	Svo var gefin skipunin "git push origin master" og sáum við svo á github.com að forkaða útgáfan okkar innihélt þessi commit.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Hlekkur á okkar repos..:
+
+	https://github.com/Valli78/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
+Við eigum það sameiginlegt að hafa á tölvunum okkar eftirfarandi 
+Open Source forrit:
+Virtualbox 4.3.0 
+Leyfi:GPL V2
+Source Code: https://virtualbox.org/browser/vbox/trunk
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Ubuntu 13.04.
+Leyfi: GNU GPL
+Source Code:
 
+Codeblocks 12.11
+Leyfi:GNU GPL
+Source Code: http://prdownload.berlios.de/codeblocks/codeblocks_12.11-1.tar.gz
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
