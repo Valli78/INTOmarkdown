@@ -14,7 +14,7 @@ En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu t
 þess að Ubuntu keyrði upp. En það dugði eftir nokkar tilraunir. 
 *Þetta er viðbót: á síðustu stundu tókst félaga mínum ekki að keyra upp Ubuntu 
 sama hvaða ráðum var beitt og sagði sig frá verkefninu.
-![Alt text](Screen.png"Sceen.Sko Linux í gangi!")
+![Alt text](Screen.png)
 
 ## 2. Uppsetning á vim && git
 Uppsetning á Vim og Git gekk eins og í sögu. Notaði gefnar command línur 
