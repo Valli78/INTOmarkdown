@@ -16,7 +16,7 @@ Uppsetning á Vim og Git gekk eins og í sögu. Við notuðum gefnar command lí
 
 ## 3. Unnið með Git (1. hluti)
 Það gekk áfallalaust að stofna account á github og þar fundum við INTOPrufa verkefnið fljótt og smelltum á "fork".  
-Svo var auðvelt að clóna forkuðu útgáfuna á okkar tölvu með skipuninni: "git clone https://github.com/Valli78/INTOPrufa.
+Svo var auðvelt að clóna forkuðu útgáfuna á okkar tölvu með skipuninni: "git clone "hlekkur á skjal".
 Svo eftir ítarlegt "crashcourse" í vim þá gekk vel að gera breytingu á cóðanum í skjalinu svo og einnig að búa til commit með okkar lýsingu á hvað við gerðum.
 	Svo var gefin skipunin "git push origin master" og sáum við svo á github.com að forkaða útgáfan okkar innihélt þessi commit.
 
