@@ -38,15 +38,15 @@ Hlekkur á repository okkar er: https://github.com/Valli78/INTOPrufa
 Open Source forrit:
 
 Virtualbox 4.3.0 
-Leyfi:GPL V2
-Source Code: 
+Leyfi:GPL V2   
+Source Code:    
 https://virtualbox.org/browser/vbox/trunk
 
 Ubuntu 13.04.
-Leyfi: GNU GPL
-Source Code:
+Leyfi: GNU GPL   
+Source Code:   
 
 Codeblocks 12.11
-Leyfi:GNU GPL
-Source Code: 
+Leyfi:GNU GPL   
+Source Code:    
 http://prdownload.berlios.de/codeblocks/codeblocks_12.11-1.tar.gz
