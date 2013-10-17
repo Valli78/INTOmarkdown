@@ -28,7 +28,8 @@ Open Source forrit:
 
 Virtualbox 4.3.0 
 Leyfi:GPL V2
-Source Code: https://virtualbox.org/browser/vbox/trunk
+Source Code: 
+https://virtualbox.org/browser/vbox/trunk
 
 Ubuntu 13.04.
 Leyfi: GNU GPL
@@ -36,7 +37,9 @@ Source Code:
 
 Codeblocks 12.11
 Leyfi:GNU GPL
-Source Code: http://prdownload.berlios.de/codeblocks/codeblocks_12.11-1.tar.gz
+Source Code: 
+http://prdownload.berlios.de/codeblocks/codeblocks_12.11-1.tar.gz
+
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
