@@ -19,10 +19,8 @@ Uppsetning á Vim og Git gekk eins og í sögu. Við notuðum gefnar command lí
 Svo var auðvelt að clóna forkuðu útgáfuna á okkar tölvu með skipuninni: "git clone "hlekkur á skjal".
 Svo eftir ítarlegt "crashcourse" í vim þá gekk vel að gera breytingu á cóðanum í skjalinu svo og einnig að búa til commit með okkar lýsingu á hvað við gerðum.
 	Svo var gefin skipunin "git push origin master" og sáum við svo á github.com að forkaða útgáfan okkar innihélt þessi commit.
-
-Hlekkur á okkar repository er
-
-	https://github.com/Valli78/INTOPrufa
+ 
+Hlekkur á repository okkar er: https://github.com/Valli78/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 Við eigum það sameiginlegt að hafa á tölvunum okkar eftirfarandi 
