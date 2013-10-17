@@ -1,7 +1,7 @@
 #Open Source
 
 Meðlimir hóps:
-+ Árni Árnason
++ Xxxx Xxxx(Datt út úr hópnum sökum tæknivandamála)  
 + Valgeir Már Sturluson
 
 ## 1. Linux uppsetning
@@ -10,8 +10,10 @@ upp. það gekk auðveldlega og svo náðum við í Ubuntu13.04 og settum upp.
 Það gekk ekki vel í byrjun, vildi ekki keyra eðlilega fyrst en svo duttum við inn á það ráð að breyta stillingum, og þá gekk keyrði forritið.  
 Nauðsynlegt var að afhaka við "usb" eins og margir lentu í.  
 En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu til 
-þess að Ubuntu keyrði upp. En það dugði.
-![Screens.png]
+þess að Ubuntu keyrði upp. En það dugði. Þetta er viðbót, á síðustu stundu 
+tóks félaga mínum ekki að keyra upp Ubuntu sama hvaða ráðum var beitt og sagði
+sig frá verkefninu.
+![Alt text](Screen.png)
 
 ## 2. Uppsetning á vim && git
 Uppsetning á Vim og Git gekk eins og í sögu. Við notuðum gefnar command línur til þess arna og það gekk vel.
