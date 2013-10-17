@@ -12,7 +12,7 @@ við inn á það ráð að breyta stillingum fram og til baka, þá keyrði for
 Nauðsynlegt var að afhaka við "usb" eins og margir lentu í.  
 En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu til 
 þess að Ubuntu keyrði upp. En það dugði eftir nokkar tilraunir. 
-*Þetta er viðbót: á síðustu stundu tóks félaga mínum ekki að keyra upp Ubuntu 
+*Þetta er viðbót: á síðustu stundu tókst félaga mínum ekki að keyra upp Ubuntu 
 sama hvaða ráðum var beitt og sagði sig frá verkefninu.
 ![Alt text](Screen.png)
 
