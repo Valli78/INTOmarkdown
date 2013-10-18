@@ -1,7 +1,7 @@
 #Open Source
 
 Meðlimir hóps:
-+ Xxxx Xxxx(Datt út úr hópnum sökum tæknivandamála)  
++ Árni Árnason  
 + Valgeir Már Sturluson
 
 ## 1. Linux uppsetning
@@ -14,7 +14,8 @@ En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu t
 þess að Ubuntu keyrði upp. En það dugði eftir nokkar tilraunir.   
  
 *Þetta er viðbót:Þegar leið á tókst félaga mínum ekki að keyra upp Ubuntu 
-sama hvaða ráðum var beitt og sagði hann sig frá verkefninu.
+sama hvaða ráðum var beitt og þurfti hann að setja git upp á    
+windows, eftir það gat hann sett inn commit á INTOPrufa. Menn sáttari.
 ![Alt text](Screen.png)
 
 ## 2. Uppsetning á vim & git
@@ -24,7 +25,7 @@ En hann hafði búið til account á github og ég hafði bætt honum við sem
 collaborator.  
 
 ## 3. Unnið með Git (1. hluti)
-Það gekk áfallalaust að stofna account á github og þar fann ég INTOPrufa 
+Það gekk áfallalaust að stofna account á github og þar fundum við INTOPrufa 
 verkefnið fljótt og smellti á "fork".  
 Svo var auðvelt að klóna forkuðu útgáfuna á mína tölvu með skipuninni: 
 "git clone "hlekkur á skjal".
@@ -37,13 +38,13 @@ Hlekkur á repository okkar er: https://github.com/Valli78/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Á minni vél er það helst að telja að ég er með eftirfarandi 
+Á okkar vélum er helst að telja sameiginleg eftirfarandi 
 Open Source forrit:
 
-Virtualbox 4.3.0 
-Leyfi:GPL V2   
+Firefox 24.0 
+Leyfi: MPL   
 Source Code:    
-https://virtualbox.org/browser/vbox/trunk
+http:mxr.mozilla.org/mozilla-central/source
 
 Ubuntu 13.04.
 Leyfi: GNU GPL   
@@ -56,7 +57,7 @@ Source Code:
 http://prdownload.berlios.de/codeblocks/codeblocks_12.11-1.tar.gz  
 
 ## 5. Unnið með Git (2.hluti)  
-Þetta var mjög skemtilegt verkefni þegar leið á þegar hlutir virkuðu   
+Þetta var mjög skemtilegt verkefni þegar leið á og þegar hlutir virkuðu   
 og manni fannst maður læra mjög mikið á mjög skömmum tíma.    
 En sem áður þá er maður ekki viss hvort maður sé að gera rétta 
 hluti og er í smá óvissu á leiðinni.     
