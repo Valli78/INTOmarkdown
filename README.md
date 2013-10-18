@@ -1,7 +1,7 @@
 #Open Source
 
 Meðlimir hóps:
-+ Xxxx Xxxx(Datt út úr hópnum sökum tæknivandamála)  
++ Árni Árnason  
 + Valgeir Már Sturluson
 
 ## 1. Linux uppsetning
@@ -14,20 +14,21 @@ En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu t
 þess að Ubuntu keyrði upp. En það dugði eftir nokkar tilraunir.      
  
 *Þetta er viðbót:Þegar leið á tókst félaga mínum ekki að keyra upp Ubuntu 
-sama hvaða ráðum var beitt og sagði hann sig frá verkefninu.
+sama hvaða ráðum var beitt og þurfti hann að setja upp git  á windows.   
+Eftir það tókst honum einnig að gera breytingu á NIM.cpp.  Allir sáttari.
 ![Alt text](Screen.png)
 
 ## 2. Uppsetning á vim & git
-Uppsetning á Vim og Git gekk eins og í sögu. Notaði gefnar command línur       
+Uppsetning á Vim og Git gekk eins og í sögu. Notuðum gefnar command línur       
 til þess arna og það gekk vel. Einnig gekk vel að búa til SSH key og tengja    
 hann inni á github.  En það reyndi ekki á það hjá félaganum sökum vandræða.      
 En hann hafði búið til account á github og ég hafði bætt honum við sem     
 collaborator.     
 
 ## 3. Unnið með Git (1. hluti)
-Það gekk áfallalaust að stofna account á github og þar fann ég INTOPrufa 
+Það gekk áfallalaust að stofna account á github og þar fundum við INTOPrufa 
 verkefnið fljótt og smellti á "fork".     
-Svo var auðvelt að klóna forkuðu útgáfuna á mína tölvu með skipuninni: 
+Svo var auðvelt að klóna forkuðu útgáfuna á local tölvu með skipuninni: 
 "git clone "hlekkur á skjal".   
 Svo eftir ítarlega yfirfer á vim þá gekk vel að gera breytingu á NIM.cpp   
 svo og einnig að búa til commit með eigin lýsingu á hvað var gert.   
@@ -38,7 +39,7 @@ Hlekkur á repository okkar er: https://github.com/Valli78/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Á minni vél er það helst að telja að ég er með eftirfarandi 
+Á okkar vélum er það helst að telja að við erum með eftirfarandi 
 Open Source forrit:
 
 Virtualbox 4.3.0 
@@ -46,10 +47,10 @@ Leyfi:GPL V2
 Source Code:    
 https://virtualbox.org/browser/vbox/trunk
 
-Ubuntu 13.04.
-Leyfi: GNU GPL   
+Firefox 24.0
+Leyfi: MPL   
 Source Code:   
-http://cdimage.ubuntu.com/releases/13.04/release/source/      
+http://mxr.mozilla.org/mozilla-central/source/     
 
 Codeblocks 12.11
 Leyfi:GNU GPL   
