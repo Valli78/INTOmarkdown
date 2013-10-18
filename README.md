@@ -19,7 +19,8 @@ sama hvaða ráðum var beitt og sagði hann sig frá verkefninu.
 
 ## 2. Uppsetning á vim & git
 Uppsetning á Vim og Git gekk eins og í sögu. Notaði gefnar command línur    
-til þess arna og það gekk vel. Einnig gekk vel að búa til SSH key og tengja hann inni á github.  En það reyndi ekki á það hjá félaganum sökum vandræða.   
+til þess arna og það gekk vel. Einnig gekk vel að búa til SSH key og tengja 
+hann inni á github.  En það reyndi ekki á það hjá félaganum sökum vandræða.   
 En hann hafði búið til account á github og ég hafði bætt honum við sem  
 collaborator.  
 
