@@ -5,24 +5,24 @@ Meðlimir hóps:
 + Valgeir Már Sturluson
 
 ## 1. Linux uppsetning
-Okkur gekk ágætlega að setja inn Ubuntu.  Við náðum í Virtualbox, settum það
-upp. það gekk auðveldlega og svo náðum við í Ubuntu13.04 og settum upp.
-Það gekk ekki vel í byrjun, vildi ekki keyra eðlilega fyrst en svo duttum 
-við inn á það ráð að breyta stillingum fram og til baka, þá keyrði forritið.  
-Nauðsynlegt var að afhaka við "usb" eins og margir lentu í.  
-En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu til 
-þess að Ubuntu keyrði upp. En það dugði eftir nokkar tilraunir.   
+Okkur gekk ágætlega að setja inn Ubuntu.  Við náðum í Virtualbox, settum það     
+upp. það gekk auðveldlega og svo náðum við í Ubuntu13.04 og settum upp.    
+Það gekk ekki vel í byrjun, vildi ekki keyra eðlilega fyrst en svo duttum    
+við inn á það ráð að breyta stillingum fram og til baka, þá keyrði forritið.     
+Nauðsynlegt var að afhaka við "usb" eins og margir lentu í.     
+En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu til    
+þess að Ubuntu keyrði upp. En það dugði eftir nokkar tilraunir.      
  
 *Þetta er viðbót:Þegar leið á tókst félaga mínum ekki að keyra upp Ubuntu 
 sama hvaða ráðum var beitt og sagði hann sig frá verkefninu.
 ![Alt text](Screen.png)
 
 ## 2. Uppsetning á vim & git
-Uppsetning á Vim og Git gekk eins og í sögu. Notaði gefnar command línur    
-til þess arna og það gekk vel. Einnig gekk vel að búa til SSH key og tengja 
-hann inni á github.  En það reyndi ekki á það hjá félaganum sökum vandræða.   
-En hann hafði búið til account á github og ég hafði bætt honum við sem  
-collaborator.  
+Uppsetning á Vim og Git gekk eins og í sögu. Notaði gefnar command línur       
+til þess arna og það gekk vel. Einnig gekk vel að búa til SSH key og tengja    
+hann inni á github.  En það reyndi ekki á það hjá félaganum sökum vandræða.      
+En hann hafði búið til account á github og ég hafði bætt honum við sem     
+collaborator.     
 
 ## 3. Unnið með Git (1. hluti)
 Það gekk áfallalaust að stofna account á github og þar fann ég INTOPrufa 
