@@ -55,9 +55,13 @@ Leyfi:GNU GPL
 Source Code:    
 http://prdownload.berlios.de/codeblocks/codeblocks_12.11-1.tar.gz  
 
-## 5. GIT  
-Þetta var mjög skemmtilegt verkefni þegar leið á og manni fannst maður   
-læra mjög mikið á mjög skömmum tíma.  En sem áður þá er maður ekki viss   
-hvort maður sé að gera rétta hluti og er í smá óvissu á leiðinni.  
+## 5. Unnið með Git (2.hluti)  
+Þetta var mjög skemtilegt verkefni þegar leið á þegar hlutir virkuðu   
+og manni fannst maður læra mjög mikið á mjög skömmum tíma.    
+En sem áður þá er maður ekki viss hvort maður sé að gera rétta 
+hluti og er í smá óvissu á leiðinni.     
 En mjög gaman að prófa Linux í fyrsta skipti og kynnast fyrirbærum   
-eins og git og vim, og langar mig að læra meira á þau tól.
+eins og git og vim. Varðandi innsetningu í markdown skjalið þá var    
+það ekki mikill hausverkur en við vorum ekki vissir hvort við værum að   
+gera 100% rétt varðandi að nota markdown syntax.  En lærðum þó nokkra   
+hluti.
