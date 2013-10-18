@@ -5,16 +5,17 @@ Meðlimir hóps:
 + Valgeir Már Sturluson
 
 ## 1. Linux uppsetning
-Okkur gekk ágætlega að setja inn Ubuntu.  Við náðum í Virtualbox, settum það    upp.    það gekk auðveldlega og svo náðum við í Ubuntu13.04 og settum upp.   
+Okkur gekk ágætlega að setja inn Ubuntu.  Við náðum í Virtualbox, settum það upp.   
+það gekk auðveldlega og svo náðum við í Ubuntu13.04 og settum upp.   
 Það gekk ekki vel í byrjun, vildi ekki keyra eðlilega fyrst en svo duttum    
 við inn á það ráð að breyta stillingum fram og til baka, þá keyrði forritið.     
 Nauðsynlegt var að afhaka við "usb" eins og margir lentu í.     
 En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu til    
 þess að Ubuntu keyrði upp. En það dugði eftir nokkar tilraunir.      
  
-*Þetta er viðbót:Þegar leið á tókst félaga mínum ekki að keyra upp Ubuntu 
-sama hvaða ráðum    var beitt og þurfti hann að setja git upp á    
-windows, eftir það gat hann sett inn commit á INTOPrufa. Menn sáttari.
+Þegar leið á tókst félaga mínum ekki að keyra upp Ubuntu sama hvaða ráðum   
+var beitt og þurfti hann að setja git upp á windows, eftir það gat hann   
+sett inn commit á INTOPrufa. Menn sáttari.
 
 ![Alt text](Screen.png)
 
@@ -30,7 +31,7 @@ collaborator.
 verkefnið fljótt og smellti á "fork".  
 Svo var auðvelt að klóna forkuðu útgáfuna á mína tölvu með skipuninni: 
 "git clone "hlekkur á skjal".
-Svo eftir ítarlega yfirferð á vim þá gekk vel að gera breytingu á NIM.cpp   
+Eftir ítarlega yfirferð á vim þá gekk vel að gera breytingu á NIM.cpp   
 svo og einnig að búa til commit með eigin lýsingu á hvað var gert.   
 Svo var gefin skipunin "git push origin master" og sá ég svo á 
 github.com að forkaða útgáfan okkar innihélt þessi commit.
@@ -49,7 +50,7 @@ http:mxr.mozilla.org/mozilla-central/source
 
 virtualbox 4.3.0
 Leyfi: GPL V2
-source Code:
+source Code:   
 https://virtualbox.org/browser/vbox/trunk
 
 Codeblocks 12.11
