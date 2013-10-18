@@ -46,7 +46,7 @@ Open Source forrit:
 Firefox 24.0 
 Leyfi: MPL   
 Source Code:    
-http:mxr.mozilla.org/mozilla-central/source
+http://mxr.mozilla.org/mozilla-central/source
 
 virtualbox 4.3.0
 Leyfi: GPL V2
