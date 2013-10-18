@@ -26,12 +26,12 @@ collaborator.
 
 ## 3. Unnið með Git (1. hluti)
 Það gekk áfallalaust að stofna account á github og þar fann ég INTOPrufa 
-verkefnið fljótt og smellti á "fork".  
+verkefnið fljótt og smellti á "fork".     
 Svo var auðvelt að klóna forkuðu útgáfuna á mína tölvu með skipuninni: 
-"git clone "hlekkur á skjal".
+"git clone "hlekkur á skjal".   
 Svo eftir ítarlega yfirfer á vim þá gekk vel að gera breytingu á NIM.cpp   
-svo og einnig að búa til commit með eigin lýsingu á hvað var gert.
-	Svo var gefin skipunin "git push origin master" og sá ég svo á 
+svo og einnig að búa til commit með eigin lýsingu á hvað var gert.   
+Svo var gefin skipunin "git push origin master" og sá ég svo á 
 github.com að forkaða útgáfan okkar innihélt þessi commit.
  
 Hlekkur á repository okkar er: https://github.com/Valli78/INTOPrufa
