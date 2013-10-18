@@ -5,7 +5,7 @@ Meðlimir hóps:
 + Valgeir Már Sturluson
 
 ## 1. Linux uppsetning
-Okkur gekk ágætlega að setja inn Ubuntu.  Við náðum í Virtualbox, settum það    upp. það gekk auðveldlega og svo náðum við í Ubuntu13.04 og settum upp.   
+Okkur gekk ágætlega að setja inn Ubuntu.  Við náðum í Virtualbox, settum það    upp.    það gekk auðveldlega og svo náðum við í Ubuntu13.04 og settum upp.   
 Það gekk ekki vel í byrjun, vildi ekki keyra eðlilega fyrst en svo duttum    
 við inn á það ráð að breyta stillingum fram og til baka, þá keyrði forritið.     
 Nauðsynlegt var að afhaka við "usb" eins og margir lentu í.     
@@ -13,7 +13,7 @@ En eftir það var samt sem áður nauðsynlegt að breyta einhverri stillingu t
 þess að Ubuntu keyrði upp. En það dugði eftir nokkar tilraunir.      
  
 *Þetta er viðbót:Þegar leið á tókst félaga mínum ekki að keyra upp Ubuntu 
-sama hvaða ráðum var beitt og þurfti hann að setja git upp á    
+sama hvaða ráðum    var beitt og þurfti hann að setja git upp á    
 windows, eftir það gat hann sett inn commit á INTOPrufa. Menn sáttari.
 
 ![Alt text](Screen.png)
